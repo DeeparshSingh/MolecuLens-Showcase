@@ -10,7 +10,7 @@
 
 <div align="center">
 
-**[🚀 Live Demo](https://deepchem-frontend-705710699642.us-central1.run.app/)** • **[📖 API Docs](https://deepchem-backend-705710699642.us-central1.run.app/docs)**
+**[🚀 Live Demo](https://deepchem-frontend-705710699642.us-central1.run.app/)**
 
 </div>
 
@@ -231,7 +231,7 @@ This project was developed for an educational institution. The source code remai
 
 **Deeparsh Singh**
 - 🌐 [Portfolio](https://www.deeparshsingh.me)
-- 💼 [LinkedIn](https://www.linkedin.com/in/deeparsh-singh)
+- 💼 [LinkedIn](https://www.linkedin.com/in/deeparsh010/)
 - 🐙 [GitHub](https://github.com/DeeparshSingh)
 
 ---
@@ -242,6 +242,6 @@ This project was developed for an educational institution. The source code remai
 
 Made with ❤️ for students and educators
 
-[🚀 Live Demo](https://deepchem-frontend-705710699642.us-central1.run.app/) • [📖 API Docs](https://deepchem-backend-705710699642.us-central1.run.app/docs)
+[🚀 Live Demo](https://deepchem-frontend-705710699642.us-central1.run.app/)
 
 </div>
