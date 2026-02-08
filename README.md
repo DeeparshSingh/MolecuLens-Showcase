@@ -10,7 +10,7 @@
 
 <div align="center">
 
-**[🚀 Live Demo](https://deepchem-frontend-705710699642.us-central1.run.app/)**
+**[🚀 Live Demo](https://deepchem-frontend-705710699642.us-central1.run.app/)** • **[📖 API Docs](https://deepchem-backend-705710699642.us-central1.run.app/docs)**
 
 </div>
 
@@ -81,33 +81,25 @@ MolecuLens is a **virtual drug screening lab** that allows students to test mole
 
 ## 🎨 Screenshots
 
-<div align="center">
-
-<!-- PLACEHOLDER: Add screenshots here -->
-<!-- ![Home Page](assets/home-page.png) -->
-<!-- ![Results Dashboard](assets/results-dashboard.png) -->
-<!-- ![Comparison Panel](assets/comparison-panel.png) -->
-
-*Screenshots coming soon — see the [Live Demo](https://deepchem-frontend-705710699642.us-central1.run.app/) for the full experience.*
-
-</div>
+<table>
+<tr>
+<td width="50%">
 
 ### Home Page — Molecule Input
+![Home Page](assets/home-page.png)
 
-The landing page features a modern dark-themed interface where users can:
-- Select from 10 disease protein targets
-- Choose from 20 pre-loaded example molecules
-- Enter custom SMILES strings
+</td>
+<td width="50%">
+
+### Comparison Panel
+![Comparison Panel](assets/comparison-panel.png)
+
+</td>
+</tr>
+</table>
 
 ### Results Dashboard
-
-After analysis, users see:
-- **Activity Card** — Probability of inhibiting the target protein
-- **Solubility Card** — Water solubility classification
-- **Lipophilicity Card** — LogP value with interpretation
-- **Drug-Likeness Card** — Lipinski's Rule of 5 compliance
-- **Toxicity Card** — Risk assessment across 12 pathways
-- **2D Structure** — Visual molecular structure (downloadable as SVG)
+![Results Dashboard](assets/results-dashboard.png)
 
 ---
 
@@ -240,7 +232,7 @@ This project was developed for an educational institution. The source code remai
 **Deeparsh Singh**
 - 🌐 [Portfolio](https://www.deeparshsingh.me)
 - 💼 [LinkedIn](https://www.linkedin.com/in/deeparsh-singh)
-- 🐙 [GitHub](https://www.linkedin.com/in/deeparsh010/)
+- 🐙 [GitHub](https://github.com/DeeparshSingh)
 
 ---
 
@@ -250,6 +242,6 @@ This project was developed for an educational institution. The source code remai
 
 Made with ❤️ for students and educators
 
-[🚀 Live Demo](https://deepchem-frontend-705710699642.us-central1.run.app/)
+[🚀 Live Demo](https://deepchem-frontend-705710699642.us-central1.run.app/) • [📖 API Docs](https://deepchem-backend-705710699642.us-central1.run.app/docs)
 
 </div>
